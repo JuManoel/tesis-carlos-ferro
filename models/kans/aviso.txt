@@ -1,0 +1,4 @@
+El archivo kans tiene todas las classes y modelos que utilizan Kolmogorov-Arnold Networks
+No recomiento cambiar mucho sin ayuda de copilot/ChatGPT o sin el paper o conocimentos previos. 
+El codigo ya esta todo estructura y funcional. Caso quiera cambiar algo, cambie los valores
+de los parametros de las funciones que genere los modelos, pero mas que eso es arriesgado

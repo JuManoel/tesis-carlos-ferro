@@ -1,0 +1,17 @@
+# Ignorar carpetas específicas
+ml_models/
+models_class/
+models_meta/
+.venv/
+
+# Ignorar archivos con extensiones específicas
+*.pth
+*.joblib
+
+# Ignorar imágenes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff

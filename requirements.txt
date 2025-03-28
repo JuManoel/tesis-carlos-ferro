@@ -1,0 +1,31 @@
+numpy
+pandas
+scikit-build
+scikit-learn
+opencv-python
+lion-pytorch
+monai
+torch==1.7.1
+torchvision==0.8.2
+timm==0.4.12 #asd
+tqdm
+accelerate
+wandb
+omegaconf
+hydra-core
+datasets
+pillow
+torchinfo
+torchmetrics
+einops
+matplotlib
+huggingface_hub
+lion-pytorch
+imbalanced-learn
+albumentations
+optuna @ git+https://github.com/optuna/optuna
+ray[tune]
+medpy
+iterative-stratification
+torchcam
+tensorflow-gpu
